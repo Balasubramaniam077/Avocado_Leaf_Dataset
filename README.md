@@ -11,6 +11,8 @@ Published Date : 31 May 2024
 
 Published Dataset Link : https://data.mendeley.com/datasets/6zy6wxhf2v/1
 
+Contributors: Rajasekaran T, Naveen P and Balasubramaniam Vadivel
+
 # Citation
 
 T, Rajasekaran; P, Naveen; Vadivel, Balasubramaniam (2024), “K-Kotagiri (NRB) Avocado Leaf DataSet ”, Mendeley Data, V1, doi: 10.17632/6zy6wxhf2v.1
